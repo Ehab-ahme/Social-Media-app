@@ -1,0 +1,7 @@
+__pycache__/
+db.sqlite3
+*.pyc
+.env
+.vscode/
+**/my.cnf
+MY_README.md
